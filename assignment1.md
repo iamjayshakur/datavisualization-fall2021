@@ -20,20 +20,16 @@ I would rate the clarity and **accuracy as a 5**. I understood right away that t
 
 ### If there was a data visualization, were you able to understand how to read it? Again, use a 5-point scale with 5 = excellent Was that the most efficient way to navigate the visualization? Can you suggest ways to improve navigation?
 
-As it concerns data visualization there was one element; a map with red dots placed in areas of Alaska with no local law enforcement. I would rate this form of visualization as a 3.5 or 4. It is simple and directly to the point; it communicates that this is potentially (at the time, 2019) an acute issue that is not isolated. 
+As it concerns data visualization there was one element; a map with red dots placed in areas of Alaska with no local law enforcement. I would rate this form of visualization as a 3.5 or 4. It is simple and directly to the point; it communicates that this is potentially (at the time, 2019) an acute issue that is not isolated. In my view there is no need to change the visualization. It isn't confusing and viusally seeing th4 "red dots" all over the map of Alaska it has an effect of urgency (which it seems the writer wanted). 
+
+
+
+### Using your own knowledge and critical thinking abilities, do you think the data was accurate? 1-5, with 5 most accurate. List any areas where you question the accuracy of the data. List sources you would suggest the reporter check with. Did they provide a source? Did they explain everything that needed explaining?
 
 
 
 
-### Using your own knowledge and critical thinking abilities, do you think the data was accurate? 1-5, with 5 most accurate
 
-List any areas where you question the accuracy of the data.
-
-List sources you would suggest the reporter check with.
-
-Did they provide a source?
-
-Did they explain everything that needed explaining?
 
 
 ## Quality
