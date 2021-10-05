@@ -3,15 +3,12 @@
 ## JayJuan Shakur Jones 
 
 
-
-
-What has been done
-
-What hasn't been done 
+In my research on this topic, I am able to find data, however, I am not able to find alot of news reports or stories that contextualize the data in a graphically or visually apealing manner. There are many studies and much data out there surrounding single parent hoseholds but there are no news stories, with the exception of a few opinion pieces, that report on this data and its broader implications. This is the case on a national scale. There have been a few local stories that I found, that examined paritucalr neighborhoods but nothing that contexualizes the data from a national standpoint or even just looking at a major U.S. city. 
 
 
 
- three high-quality datasets 
+
+ ## 3 high-quality datasets 
  
  why the data source is trustworthy and what (if any) limitations it might have.
 
