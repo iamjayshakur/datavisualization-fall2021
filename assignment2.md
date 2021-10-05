@@ -12,6 +12,13 @@ In my research on this topic, I am able to find data, however, I am not able to 
  
  why the data source is trustworthy and what (if any) limitations it might have.
 
+1. Census.gov 
+
+The United States Census Bureau has great data that points out the nuance of what their data set calls "two extremes". The two extremes of fatherhood — “solo” dads who appear to raise their children by themselves and “absent” dads who appear to have little or nothing to do with parenting.
+
+2. Pew Research Center 
+
+3. National Center for Education Statstics 
 
 
 
@@ -28,19 +35,20 @@ https://www.census.gov/library/stories/2019/11/the-two-extremes-of-fatherhood.ht
 
 http://www.rochesterareafatherhoodnetwork.org/statistics
 
-
 https://www.fatherhood.org/father-absence-statistic
 
 https://www.mnpsych.org/index.php%3Foption%3Dcom_dailyplanetblog%26view%3Dentry%26category%3Dindustry%2520news%26id%3D54
 
-
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3904543/
-
 
 https://www.rlom.org/post/father-absence-crisis
 
-
 https://www.pewresearch.org/social-trends/2011/06/15/chapter-1-living-arrangements-and-father-involvement/
+
+https://www.pewresearch.org/social-trends/2018/04/25/the-changing-profile-of-unmarried-parents/
+
+https://www.pewresearch.org/fact-tank/2018/04/27/about-one-third-of-u-s-children-are-living-with-an-unmarried-parent/
+
 
 
 
