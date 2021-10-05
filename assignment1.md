@@ -24,48 +24,38 @@ As it concerns data visualization there was one element; a map with red dots pla
 
 
 
+
 ### Using your own knowledge and critical thinking abilities, do you think the data was accurate? 1-5, with 5 most accurate. List any areas where you question the accuracy of the data. List sources you would suggest the reporter check with. Did they provide a source? Did they explain everything that needed explaining?
 
-
-
+I do think the data is accurate as presented by Kyle Hopkins. However, I do think the reader, though this most likely was not the intention of the author, could fall into the  false belief that correlation means causation. It is not empirically true or proven that because there is a lack of a local police force that this is the only reason violent crime is rampant. In order to qualify this indirect claim and link the two things the author uses a personal, human anecdote. This gives a real-life example in microcosm form. 
 
 
 
 
 ## Quality
 
-Regardless of the form that the graphic/story takes, was it executed at a high degree of quality? (Rank 1-5, with five excellent.)
+### Regardless of the form that the graphic/story takes, was it executed at a high degree of quality? (Rank 1-5, with five excellent.)
 Explain what they did well and areas where improvements could be made. Type and color (if piece includes graphics)
 
+I would rate the design of the graphic, a map of Alaska with red dots denoting the places that had no local law enforcement in 2019, as a 4. As mentioned, it is simple (white, grey with red as the "stand out" color) and it is effective in showing that the lack of local law enforcement is widespread. I would make the "red dots" animated, the story has a lot of copy and a map with some animation would add a layer of surpise as well as draw readers in to the main point of the article. 
+
+
+
+
+## Based on your knowledge of color and type use, did this person use type (as in typography, fonts) and color to their best purpose? For example, did it: Look like it all belonged together? Draw your eye first to the most important pieces of information? Make sense? For example, if it discussed heat, did it use the color red to communicate the degree of heat rather than, say, blue? ## Type (1-5) Explain ## Color (1-5) Explain
 
 
 
 
 
 
-## Based on your knowledge of color and type use, did this person use type (as in typography, fonts) and color to their best purpose?
+## Creativity Did the piece use some creative elements to good effect? As in, to emphasize those areas that could draw someone in, or to add detail where needed, but not just random visual or story junk that distracts you? How?
 
-For example, did it:
-Look like it all belonged together?
-Draw your eye first to the most important pieces of information?
-Make sense? For example, if it discussed heat, did it use the color red to communicate the degree of heat rather than, say, blue?
-
-
-## Type (1-5)
-Explain
-
-## Color (1-5)
-Explain
-
-
-## Creativity
-Did the piece use some creative elements to good effect? As in, to emphasize those areas that could draw someone in, or to add detail where needed, but not just random visual or story junk that distracts you?
-How?
+There is very little creativity in that the only depiciton of the data is a very simple map. If the goal was to purposely be conservative in the design that was accomplished and allows the reader to focus in on the text. There are no random visuals or "story junk" that distracts. The text is aided by the map (cviusal) and the video segments embedded within the article. 
 
 
 ## Rate effectiveness on scale of 1-5.
-
-
+Overall, I would rate the effectiveness of this article and this graphic as a 4. It is simple and directly to the point but could be more exciting and present ther data with more animation and color i.e. a better version of the Alaska map.
 
 
 
@@ -79,9 +69,7 @@ There is currently data surrounding homes where specifically the father is absen
 
 As reported by in the New York Times in 1960 and other outlets, 5 percent of America's children entered the world without a mother and father married to each other. By 1980 it was 18 percent, by 2000 it had irsen to 33 percent, and fifteen years later the numbner reached 41 percent. 
 For blacks, even during slavery when marriage for slaves was illegal, black children were mor elikely than today to be raised by both their mother and father. Economist Walter Williams has studied the census data, from 1890 to 1940 citing such. Also, the data trneds show that for black the out-of-wedlock births have gone from about 25 perecent in 1965 to 73 percent in 2015. 
-For whites, this metric went from less than 5 percent to over 25 percent. And for hispanics, out-of-wedlock births have risen to 53 percent. The exponential growth and its 
-disproportinate affect appears to hit the Black community more severely. A story exmaining the data and factor surrrouding this narrative and testing the valiaty of the data as well as 
-what such figures mean and do these figures correlate (not necessarily cause) an increase, decrease in crime/poverty. 
+For whites, this metric went from less than 5 percent to over 25 percent. And for hispanics, out-of-wedlock births have risen to 53 percent. The exponential growth and its disproportinate affect appears to hit the Black community more severely. A story exmaining the data and factor surrrouding this narrative and testing the valiaty of the data as well as what such figures mean and do these figures correlate (not necessarily cause) an increase, decrease in crime/poverty. 
 
 **Why this story matters:** This story matters for many reasons. The statistics when isolated show that father absence is an underlying issue ignored in the mainstream that disproportionally affects Black Americans, particularly Black men. 
 My goal in possibly reporting this information in relationship to poverty and crime factors specficially, is to shed light on this issue and provide a different perpsective on the recent crime surges across the country.
