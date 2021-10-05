@@ -10,8 +10,6 @@ In my research on this topic, I am able to find data, however, I am not able to 
 
  ## 3 high-quality datasets 
  
- why the data source is trustworthy and what (if any) limitations it might have.
-
 ### 1. Census.gov 
 
 The United States Census Bureau has great data that points out the nuance of what their data set calls "two extremes". The two extremes of fatherhood — “solo” dads who appear to raise their children by themselves and “absent” dads who appear to have little or nothing to do with parenting their children. This data set provides a general sense of the state of fatherhood in the U.S. (comparing present fathers to absent fathers) but no specific breakdown by more targeted demogrpahics (such as race). 
@@ -27,6 +25,8 @@ The Pew Research Center presnets data that  profiles an unmarried parent. This d
 
 This data set examines how the levels of nonresidential father involvement (over child ages 1 to 9) differ by race/ethnicity (comparing White, Black and Hispanic fathers). This data set is more targeted and hones in on father abscene by race nationally. It likes the context of the census data set. Howeverm both data sets combined or at least the census.gov data set mentione (number 1) would give this data context. (see also National Center for Education Statstics)
 
+
+All of the data sets mentioned above are reputable soruces such as Pew Research and the U.S. Census. They are nonpartisan and are transparent about their data collection methods and sources. 
 
 
 
