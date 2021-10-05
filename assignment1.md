@@ -44,8 +44,7 @@ I would rate the design of the graphic, a map of Alaska with red dots denoting t
 
 ## Based on your knowledge of color and type use, did this person use type (as in typography, fonts) and color to their best purpose? For example, did it: Look like it all belonged together? Draw your eye first to the most important pieces of information? Make sense? For example, if it discussed heat, did it use the color red to communicate the degree of heat rather than, say, blue? ## Type (1-5) Explain ## Color (1-5) Explain
 
-
-
+The type was standard for a seriosu news article. The colors were minimal and mostly combonations of black, white, and grey with, as mentioned some red in the design of the map to disguish areas of Alaska with no local police force in 2019. I would rate the typogrpahy as a 5 and the color as a 3. I belive more color, instead of the standard black, white and/or grey would make the story more appealing and possibly even provoke more sharing. 
 
 
 
@@ -88,7 +87,8 @@ This would allow viewers/readers to connect emotionally while simultaneously giv
 ## 6. Include at least one of the following features in either your critique or story pitch, to show you know how to use markdown:
 
 A heading
-A list or table
+
+# EXAMPLE OF A HEADING 
 
 
 
