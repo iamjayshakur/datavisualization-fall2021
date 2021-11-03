@@ -27,13 +27,14 @@ As it concern formulas I used a simple formula e.g. =E2-F2 or (=mother's only - 
 
 ### 3. Write a sample headline and nut graf based on the most interesting of the three questions.
 
-## HEADLINE: 2012 was the peak of single motherhood in the U.S., with the number dropping every year since then 
+## HEADLINE: 
+2012 was the peak of single motherhood in the U.S., with the number dropping every year since then 
 
 
-NUT GRAF: 
+## NUT GRAF: 
+Though the share of U.S. children living with a single parent has been rising, accompanied by a decline in marriage rates and a rise in births outside of marriage data suggests an overall decline since in single parenthood 2012.
 
 
-
-### CLEANED DATA SET: 
+## CLEANED DATA SET: 
 [Living Arrangemnets of Children - Data.csv](https://github.com/iamjayshakur/datavisualization-fall2021/files/7470270/Living.Arrangemnets.of.Children.-.Data.csv)
 
