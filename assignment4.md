@@ -15,6 +15,8 @@ The data, after converting to a CSV was not as messy as it originally appeared b
 - Review (and take note of) any outliers (large or missing numbers blank columns and/or rows)
 - I created a pivot table, filtering out, the year and single mothers as well as single fathers in order, to delineate the highest and lowest numbers.  
 
+As it concern formulas I used a simple formula e.g. =E2-F2 or (=mother's only - father's only) in order to find how many more mother's (single mother's) there were  year to year. 
+
 
 
 ## MY 3 QUESTIONS: 
