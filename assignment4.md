@@ -19,13 +19,21 @@ As it concern formulas I used a simple formula e.g. =E2-F2 or (=mother's only - 
 
 ## MY 3 QUESTIONS: 
 
-- Which year (from 1960 to 2020) had the most number of single mothers? 
-- Which year (from 1960 to 2020) had the least number of single mothers? 
-- What is thre change overtime (comparing 1960 to 2020)
-      - What factors could have possibly contirbuted to this decrease/increase? (a story question possibly) 
+### - Which year (from 1960 to 2020) had the most number of single mothers? 
 
+2012 is the year with the highest number of single mothers and it happens to be the last year before the number begins to decrease. 
+
+
+### - Which year (from 1960 to 2020) had the least number of single mothers? 
+
+1960 had the least number of single mothers (based on the 1960 census. 
+
+### - What is thre change overtime (comparing 1960 to 2020)
+      - What factors could have possibly contirbuted to this decrease/increase? (a story question possibly) 
+from 1960 to 
 
 ### 3. Write a sample headline and nut graf based on the most interesting of the three questions.
+
 
 ## HEADLINE: 
 2012 was the peak of single motherhood in the U.S., with the number dropping every year since then 
