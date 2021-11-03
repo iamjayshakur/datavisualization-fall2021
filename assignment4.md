@@ -13,7 +13,7 @@ The data, after converting to a CSV was not as messy as it originally appeared b
 
 - Ensured columns align
 - Review (and take note of) any outliers (large or missing numbers blank columns and/or rows)
-- I created a pivot table, filtering out, the year and single mothers as well as single fathers in order, to 
+- I created a pivot table, filtering out, the year and single mothers as well as single fathers in order, to delineate the highest and lowest numbers.  
 
 
 
