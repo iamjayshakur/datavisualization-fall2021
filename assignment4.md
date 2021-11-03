@@ -6,8 +6,12 @@ DATA SOURCE: https://www.census.gov/data/tables/time-series/demo/families/childr
 
 
 1. Write down all steps used to clean and analyze the data, including any Excel formulas.
-- Ensure columns align
+
+The data, after converting to a CSV was not as messy but needed some cleaning. 
+
+- Ensured columns align
 - Review (and take note of) any outliers (large or missing numbers blank columns and/or rows)
+- I created a pivot table, filtering out, the year and single mothers as well as single fathers in order, to 
 
 
 
