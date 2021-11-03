@@ -45,6 +45,6 @@ There is a 10, 205 difference {increase} from 1960 to 2020. Which is about 199% 
 Though the share of U.S. children living with a single parent has been rising, accompanied by a decline in marriage rates and a rise in births outside of marriage data suggests an overall decline since in single parenthood 2012.
 
 
-## CLEANED DATA SET: 
+### CLEANED DATA SET: 
 [Living Arrangemnets of Children - Data.csv](https://github.com/iamjayshakur/datavisualization-fall2021/files/7470270/Living.Arrangemnets.of.Children.-.Data.csv)
 
