@@ -4,10 +4,8 @@ A link to the dataset (which you can include in your repository), your questions
 
 DATA {ORIGINAL} SOURCE: https://www.census.gov/data/tables/time-series/demo/families/children.html
 
-CLEANED DATA SET: 
 
-
-1. Write down all steps used to clean and analyze the data, including any Excel formulas.
+### 1. Write down all steps used to clean and analyze the data, including any Excel formulas.
 
 The data, after converting to a CSV was not as messy as it originally appeared but needed some cleaning. 
 
@@ -27,7 +25,7 @@ As it concern formulas I used a simple formula e.g. =E2-F2 or (=mother's only - 
       - What factors could have possibly contirbuted to this decrease/increase? (a story question possibly) 
 
 
-3. Write a sample headline and nut graf based on the most interesting of the three questions.
+### 3. Write a sample headline and nut graf based on the most interesting of the three questions.
 
 ## HEADLINE: 2012 was the peak of single motherhood in the U.S., with the number dropping every year since then 
 
@@ -36,4 +34,6 @@ NUT GRAF:
 
 
 
+### CLEANED DATA SET: 
+[Living Arrangemnets of Children - Data.csv](https://github.com/iamjayshakur/datavisualization-fall2021/files/7470270/Living.Arrangemnets.of.Children.-.Data.csv)
 
