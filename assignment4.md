@@ -2,7 +2,9 @@
 
 A link to the dataset (which you can include in your repository), your questions, as well as the answers to those questions.
 
-DATA SOURCE: https://www.census.gov/data/tables/time-series/demo/families/children.html
+DATA {ORIGINAL} SOURCE: https://www.census.gov/data/tables/time-series/demo/families/children.html
+
+CLEANED DATA SET: 
 
 
 1. Write down all steps used to clean and analyze the data, including any Excel formulas.
