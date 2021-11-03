@@ -7,7 +7,7 @@ DATA SOURCE: https://www.census.gov/data/tables/time-series/demo/families/childr
 
 1. Write down all steps used to clean and analyze the data, including any Excel formulas.
 
-The data, after converting to a CSV was not as messy but needed some cleaning. 
+The data, after converting to a CSV was not as messy as it originally appeared but needed some cleaning. 
 
 - Ensured columns align
 - Review (and take note of) any outliers (large or missing numbers blank columns and/or rows)
