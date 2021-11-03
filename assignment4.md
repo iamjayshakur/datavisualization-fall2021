@@ -25,11 +25,9 @@ The data, after converting to a CSV was not as messy but needed some cleaning.
 
 3. Write a sample headline and nut graf based on the most interesting of the three questions.
 
-2012 was the peak of single mother hood in the U.S., with the number dropping every year since then 
-
-
-HEADLINE: 
-
+## HEADLINE: 2012 was the peak of single motherhood in the U.S., with the number dropping every year since then 
 
 
 NUT GRAF: 
+
+
