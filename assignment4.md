@@ -30,7 +30,9 @@ As it concern formulas I used a simple formula e.g. =E2-F2 or (=mother's only - 
 
 ### - What is thre change overtime (comparing 1960 to 2020)
       - What factors could have possibly contirbuted to this decrease/increase? (a story question possibly) 
-from 1960 to 
+
+There is a 10, 205 difference {increase} from 1960 to 2020. Which is about 199% increase. 
+
 
 ### 3. Write a sample headline and nut graf based on the most interesting of the three questions.
 
