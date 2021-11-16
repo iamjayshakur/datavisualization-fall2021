@@ -1,6 +1,7 @@
 # Assignment 6: Design a visualization
 
-![Number-of-mother-only-households-every-8-years- CHART__JayJuan Jones](https://user-images.githubusercontent.com/91574816/141002940-6d56732d-021a-4d07-a196-046472ea1f89.png)
+
+![Assignment 6 Chart](https://user-images.githubusercontent.com/91574816/142063208-06ded397-3d6d-4847-91e8-f106dda04bae.png)
 
 
 
